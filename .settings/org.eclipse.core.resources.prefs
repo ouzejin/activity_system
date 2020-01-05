@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+encoding//WebContent/admin/addBudget.js=GBK
+encoding//WebContent/admin/addBudget.jsp=GBK
+encoding//WebContent/admin/addWork.js=GBK
+encoding//WebContent/admin/addWork.jsp=GBK
+encoding//WebContent/admin/allBudget.js=GBK
+encoding//WebContent/admin/allMem.js=GBK
+encoding//WebContent/admin/allMem.jsp=GBK
+encoding//WebContent/admin/allWork.js=GBK
+encoding//WebContent/admin/allWork.jsp=GBK
+encoding//WebContent/admin/updateBudget.jsp=GBK
+encoding//WebContent/admin/updateWork.jsp=GBK
+encoding//src/cn/edu/lingnan/servlet/UpdateMemServlet.java=GBK
+encoding//src/cn/edu/lingnan/servlet/UpdateWorkServlet.java=GBK
+encoding//src/database.conf.xml=GBK
+encoding/WebContent=UTF-8
